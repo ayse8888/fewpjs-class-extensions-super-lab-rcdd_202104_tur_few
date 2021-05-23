@@ -20,6 +20,6 @@ class Deciduous extends Tree {
   }
  
   static definition() {
-    return `${super.definition()} A car is a road vehicle, typically with four wheels, powered by an internal combustion engine and able to carry a small number of people.`
+    return `${super.definition()} Deciduous trees shed their leaves annually.`
   }
 }
