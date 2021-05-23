@@ -1,5 +1,5 @@
 // Write your classes here
-class Vehicle {
+class Tree {
   constructor( make ) {
     this._make = make
   }
