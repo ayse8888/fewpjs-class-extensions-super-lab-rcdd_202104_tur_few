@@ -4,9 +4,9 @@ class Tree {
     this.species = species
   }
  
-  get make() {
-    return this._make
-  }
+  // get make() {
+  //   return this._make
+  // }
  
  static definition() {
     return 'A vehicle is used for transporting people or goods, especially on land.'
