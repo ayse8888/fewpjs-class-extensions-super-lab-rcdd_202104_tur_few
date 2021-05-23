@@ -13,7 +13,7 @@ class Tree {
   }
 }
  
-class Car extends Vehicle {
+class Deciduous extends Tree {
   constructor( make , driveTrain ) {
     super( make )
     this._driveTrain = driveTrain
