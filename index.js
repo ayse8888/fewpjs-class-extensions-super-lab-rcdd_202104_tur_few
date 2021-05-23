@@ -15,7 +15,7 @@ class Tree {
  
 class Deciduous extends Tree {
   constructor( make , driveTrain ) {
-    super( make )
+    super( species )
     this._driveTrain = driveTrain
   }
  
