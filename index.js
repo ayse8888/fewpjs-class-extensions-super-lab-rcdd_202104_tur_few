@@ -14,9 +14,9 @@ class Tree {
 }
  
 class Deciduous extends Tree {
-  constructor( species , driveTrain ) {
+  constructor( species , name ) {
     super( species )
-    this._driveTrain = driveTrain
+    this.name = name
   }
  
   static definition() {
