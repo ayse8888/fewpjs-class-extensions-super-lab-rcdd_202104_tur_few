@@ -9,7 +9,7 @@ class Tree {
   // }
  
  static definition() {
-    return 'A vehicle is used for transporting people or goods, especially on land.'
+    return 'A tree is a perennial plant with an elongated stem, or trunk, supporting branches and leaves.'
   }
 }
  
