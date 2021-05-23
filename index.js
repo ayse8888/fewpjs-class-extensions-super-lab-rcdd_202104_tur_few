@@ -4,10 +4,6 @@ class Tree {
     this.species = species
   }
  
-  // get make() {
-  //   return this._make
-  // }
- 
  static definition() {
     return 'A tree is a perennial plant with an elongated stem, or trunk, supporting branches and leaves.'
   }
