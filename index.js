@@ -1,7 +1,7 @@
 // Write your classes here
 class Tree {
-  constructor( make ) {
-    this._make = make
+  constructor( species ) {
+    this.species = species
   }
  
   get make() {
